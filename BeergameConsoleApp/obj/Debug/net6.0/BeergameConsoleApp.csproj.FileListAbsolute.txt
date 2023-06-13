@@ -1,0 +1,15 @@
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\bin\Debug\net6.0\BeergameConsoleApp.exe
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\bin\Debug\net6.0\BeergameConsoleApp.deps.json
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\bin\Debug\net6.0\BeergameConsoleApp.runtimeconfig.json
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\bin\Debug\net6.0\BeergameConsoleApp.dll
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\bin\Debug\net6.0\BeergameConsoleApp.pdb
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.csproj.AssemblyReference.cache
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.AssemblyInfoInputs.cache
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.AssemblyInfo.cs
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.dll
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\refint\BeergameConsoleApp.dll
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.pdb
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\BeergameConsoleApp.genruntimeconfig.cache
+C:\Users\stanv\source\repos\BeergameConsoleApp\BeergameConsoleApp\obj\Debug\net6.0\ref\BeergameConsoleApp.dll
